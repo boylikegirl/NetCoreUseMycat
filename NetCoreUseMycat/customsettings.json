@@ -1,0 +1,12 @@
+{
+  "FileConfig": {
+    //文件上传路径
+    "FileUpPath": "/upload/",
+    //允许上传的文件格式
+    "AttachExtension": "gif,jpg,jpeg,png,bmp,rar,zip,doc,docx,xls,xlsx,ppt,pptx,txt,flv,apk,mp4,mpg,ts,mpeg,mp3,bak,pdf",
+    //文件上传最大值KB
+    "AttachImagesize": 12400
+
+  },
+  "Timer": 10
+}
