@@ -34,6 +34,7 @@ namespace NetCoreUseMycat.Controllers
             test+= AppConfigurtaion.GetAppSettings("Timer");
             ViewData["Title"] = test;
 
+            
             return View();
         }
 
